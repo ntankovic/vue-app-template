@@ -2,10 +2,10 @@
 
 Kratki opis aplikacije ide ovdje. Primjer: Web aplikacija za praćenje novih filmova i serija.
 
-### Autori
+### Autori i zaduženja
 
--   **Ivica Ivić** (test_iivic@unipu.hr)
--   **Maja Majić** (test_mmajic@unipu.hr)
+-   **Ivica Ivić** (test_iivic@unipu.hr) - implementacija modula za administraciju i UI komponenti
+-   **Maja Majić** (test_mmajic@unipu.hr) - implementacija modula za rezervaciju i pregled filmova
 
 ### Organizacija
 
