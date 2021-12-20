@@ -1,24 +1,15 @@
-# primjer_vue_aplikacije2
+# "Naziv aplikacije"
 
-## Project setup
-```
-yarn install
-```
+Kratki opis aplikacije ide ovdje. Primjer: Web aplikacija za praćenje novih filmova i serija.
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+### Autori
 
-### Compiles and minifies for production
-```
-yarn build
-```
+-   **Ivica Ivić** (test_iivic@unipu.hr)
+-   **Maja Majić** (test_mmajic@unipu.hr)
 
-### Lints and fixes files
-```
-yarn lint
-```
+### Organizacija
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+[Sveučilište Jurja Dobrile u Puli](http://www.unipu.hr/)  
+[Fakultet informatike u Puli](https://fipu.unipu.hr/)  
+Programsko inženjerstvo, ak.god. 20XX./20XX.  
+Mentor: **Nikola Tanković** (https://fipu.unipu.hr/fipu/nikola.tankovic, nikola.tankovic@unipu.hr)
